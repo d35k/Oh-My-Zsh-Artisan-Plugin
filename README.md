@@ -8,29 +8,37 @@ Artisan Commands for Oh My Zsh
 ##  Usage  ##
 
 This plugin supplies multiple commands, all commands starts with `art`. 
+Example use:
 
 ```
-art # 'php artisan' // Example: art make:migration Example Mail
-
-artdown # 'php artisan down'
-artup # 'php artisan down'
-artopimize # 'php artisan optimize'
-artserve # 'php artisan serve'
-artmigrate # 'php artisan migrate'
-artkey # 'php artisan key:generate'
-artauth # 'php artisan make:auth'
-arttinker # 'php artisan tinker'
-artcache # 'php artisan cache:clear'
-artclear # 'php artisan clear-compiled'
-artpublish # 'php artisan vendor:publish'
-artroutes # 'php artisan route:list'
-artmigration # 'php artisan make:migration'
-artmodel # 'php artisan make:model'
-artcommand # 'php artisan make:command'
-artmail # 'php artisan make:mail'
-artseeder # 'php artisan make:seeder'
-arttest # 'php artisan make:test'
+art make:migration ExampleMail
 ```
+
+
+| Command      | For |
+|------------------|----------|
+
+| art | 'php artisan' |
+
+| artdown | 'php artisan down' |
+| artup | 'php artisan down' |
+| artopimize | 'php artisan optimize' |
+| artserve | 'php artisan serve' |
+| artmigrate | 'php artisan migrate' |
+| artkey | 'php artisan key:generate' |
+| artauth | 'php artisan make:auth' |
+| arttinker | 'php artisan tinker' |
+| artcache | 'php artisan cache:clear' |
+| artclear | 'php artisan clear-compiled' |
+| artpublish | 'php artisan vendor:publish' |
+| artroutes | 'php artisan route:list' |
+| artmigration | 'php artisan make:migration' |
+| artmodel | 'php artisan make:model' |
+| artcommand | 'php artisan make:command' |
+| artmail | 'php artisan make:mail' |
+| artseeder | 'php artisan make:seeder' |
+| arttest | 'php artisan make:test' |
+
 
 
 ##  Installation  ##
