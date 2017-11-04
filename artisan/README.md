@@ -17,9 +17,7 @@ art make:migration ExampleMail
 
 | Command      | For |
 |------------------|----------|
-
 | art | 'php artisan' |
-
 | artdown | 'php artisan down' |
 | artup | 'php artisan down' |
 | artopimize | 'php artisan optimize' |
