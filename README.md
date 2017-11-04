@@ -46,7 +46,7 @@ art make:migration ExampleMail
 - Copy artisan directory from this repo
 - Paste it to plugins directory
 - Go to '~/' folder
-- Open '.zshrc' file with your favourite text editor
+- Edit '.zshrc' file with your favourite text editor
 - Find the line contains 'plugins='
 - Add 'artisan' between '()' ( ex: plugins=(git artisan) )
 - Save it and reload your terminal
